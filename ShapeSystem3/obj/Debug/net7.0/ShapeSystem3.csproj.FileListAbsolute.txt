@@ -1,0 +1,15 @@
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/bin/Debug/net7.0/ShapeSystem3
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/bin/Debug/net7.0/ShapeSystem3.deps.json
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/bin/Debug/net7.0/ShapeSystem3.runtimeconfig.json
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/bin/Debug/net7.0/ShapeSystem3.dll
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/bin/Debug/net7.0/ShapeSystem3.pdb
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/ShapeSystem3.csproj.AssemblyReference.cache
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/ShapeSystem3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/ShapeSystem3.AssemblyInfoInputs.cache
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/ShapeSystem3.AssemblyInfo.cs
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/ShapeSystem3.csproj.CoreCompileInputs.cache
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/ShapeSystem3.dll
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/refint/ShapeSystem3.dll
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/ShapeSystem3.pdb
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/ShapeSystem3.genruntimeconfig.cache
+/Users/samadovaulviyya/Projects/ShapeSystem3/ShapeSystem3/obj/Debug/net7.0/ref/ShapeSystem3.dll
